@@ -1,6 +1,6 @@
 # Hello, I'm Barr 👋
 
-Welcome to my GitHub profile! I'm passionate about Web Development, and I love to [what you enjoy doing with code or technology]. I believe in the power of open source and collaborative development.
+Welcome to my GitHub profile! I'm passionate about Web Development, and I love to learn new technologies. I believe in the power of open source and collaborative development.
 
 ## 📚 About Me
 
@@ -17,8 +17,8 @@ Here are some of the technologies and tools I enjoy working with:
 
 ## 🌐 Connect with Me
 
-- GitHub: [Your GitHub Username](https://github.com/BarrGrace)
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/barrgrace/))
+- GitHub: https://github.com/BarrGrace
+- LinkedIn: https://www.linkedin.com/in/barrgrace/
 
 ## 📊 GitHub Stats
 
