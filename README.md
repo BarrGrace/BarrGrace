@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about Web Development, and I love to learn new technologies. I believe in the power of open source and collaborative development.
 
-![](https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707)
+![Gif](https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707)
 
 ## 📚 About Me
 
