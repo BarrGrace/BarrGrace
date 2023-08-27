@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about Web Development, and I love to learn new technologies. I believe in the power of open source and collaborative development.
 
-![Klein Bottle in 4D](file:///C:/Users/Stav/Downloads/Klein_bottle_time_evolution_in_xyzt-space.gif)
+![](https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707)
 
 ## 📚 About Me
 
