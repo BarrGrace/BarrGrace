@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about Web Development, and I love to learn new technologies. I believe in the power of open source and collaborative development.
 
-<div class="tenor-gif-embed" data-postid="12446304" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/working-morning-work-get-back-to-work-coding-coffee-gif-12446304">Working Morning Work GIF</a>from <a href="https://tenor.com/search/working-gifs">Working GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Gif](https://tenor.com/view/working-morning-work-get-back-to-work-coding-coffee-gif-12446304)
 
 ## 📚 About Me
 
