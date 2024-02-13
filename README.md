@@ -1,8 +1,10 @@
 # Hello, I'm Barr 👋
 
 Welcome to my GitHub profile! I'm passionate about Web Development, and I love to learn new technologies.
-![Gif](https://github.com/BarrGrace/BarrGrace/blob/main/6FNX.gif)
 
+<p align="center">
+  <image src="https://github.com/BarrGrace/BarrGrace/blob/main/6FNX.gif">
+ </p>
  
 ## 📚 About Me
 
