@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about Web Development, and I love to learn new technologies.
 ![Gif](https://github.com/BarrGrace/BarrGrace/blob/main/6FNX.gif)
- 
+ ni
 ## 📚 About Me
 
 - 🔭 I’m currently working on an Ai chatBot.
